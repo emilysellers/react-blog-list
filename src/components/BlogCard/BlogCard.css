@@ -23,6 +23,12 @@
   font-size: 1.5rem;
   font-weight: bold;
 }
+.author {
+  font-family: 'Playfair Display', serif;
+  font-style: italic;
+  font-size: 1.1rem;
+  font-weight: bold;
+}
 
 .image {
   grid-area: 'image';
