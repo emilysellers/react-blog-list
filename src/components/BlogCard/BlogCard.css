@@ -28,6 +28,8 @@
   font-style: italic;
   font-size: 1.1rem;
   font-weight: bold;
+  padding-top: 4px;
+  padding-bottom: 7px;
 }
 
 .image {
